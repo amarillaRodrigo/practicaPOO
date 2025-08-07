@@ -3,7 +3,7 @@
 ## 1. Diferencias entre funciones constructoras con prototype y usar class
 
 - La sintaxis de class es mas clara
-- Hoisting: Las funciones constructoras con prototype se elevan, mientras que las clases no.ç
+- Hoisting: Las funciones constructoras con prototype se elevan, mientras que las clases no.
 - Modo estricto: Las clases se ejecutan en modo estricto por defecto.
 - Herencia: Las clases pueden heredar de otras clases, mientras que las funciones constructoras con prototype no.
 
